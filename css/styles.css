@@ -42,12 +42,6 @@ table {
 	border-spacing: 0;
 }
 
-.clearfix::after {
-	content: '';
-	display: block;
-	clear: both;
-}
-
 /* my styles */
 
 .flex-container {
